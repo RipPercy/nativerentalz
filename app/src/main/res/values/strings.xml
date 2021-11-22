@@ -1,0 +1,18 @@
+<resources>
+    <!-- PAGE "ADD APARTMENT POST" -->
+    <string name="app_name">RentalZ</string>
+    <string name="btn_add">Add</string>
+    <string name="txt_inserthere"></string>
+    <string name="tv_addapartmentpost">Add Apartment Post</string>
+    <string name="tv_nameofprovider">Name of Provider</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_typesofhouse">Types of house (Apartment, Condos, Flat, Duplex)</string>
+    <string name="tv_bedroom">Bedroom (Studio, 1 bed, 2 beds)</string>
+    <string name="tv_furniture">Furniture (Furnished, Unfurnished, Part Furnished</string>
+    <string name="tv_price">Rent Price (VND / day)</string>
+    <string name="tv_note">Note</string>
+    <string name="tv_yourname">Please insert your name here</string>
+    <string name="tv_yourname_confirm">Reporter</string>
+
+    <string name="notification">Added post successfully</string>
+</resources>
